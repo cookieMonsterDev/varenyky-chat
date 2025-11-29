@@ -54,6 +54,7 @@ def fun_eval2():
 
 # Example of safe usage
 
+
 def fun_safe_eval():
     expression = input("Enter an expression: ")
 
